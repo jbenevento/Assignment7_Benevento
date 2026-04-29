@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class WeaklyConnected {
 
@@ -35,7 +35,6 @@ public class WeaklyConnected {
                 return;
             }
         }
-
         System.out.println("Weakly Connected");
 
     }
